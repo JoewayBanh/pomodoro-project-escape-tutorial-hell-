@@ -1,8 +1,9 @@
 # Simple pomodoro app
 ## Trying to create simple project with as little tutorial help as possible (escaping tutorial hell)
 
-
-
+/
+/
+/
 
 # Getting Started with Create React App
 
