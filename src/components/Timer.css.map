@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,AAAA,2BAA2B;AAChC,KAAK,AAAA,2BAA2B,CAAC;EAC/B,kBAAkB,EAAE,IAAI;EACxB,MAAM,EAAE,CAAC;CACV;;AACD,AAAA,KAAK,CAAA,AAAA,IAAC,CAAK,QAAQ,AAAb,EAAe;EACnB,eAAe,EAAE,SAAS;CAC3B",
+    "sources": [
+        "Timer.scss"
+    ],
+    "names": [],
+    "file": "Timer.css"
+}
